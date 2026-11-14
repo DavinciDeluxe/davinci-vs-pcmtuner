@@ -9,7 +9,7 @@
 | Capability | DaVinci Deluxe Cloud Edition (v1.0.45) | PCMtuner |
 | :--- | :--- | :--- |
 | **Primary Role** | Automated ECU/TCU Calibration, Emissions & Stage 1/2 Engine | bench/OBD reading interface bundled with J2534 hardware |
-| **Cars & Vans Coverage** | **5,139+ ECUs / 82 Brands** | Hardware / driver dependent |
+| **Cars & Vans Coverage** | **5,150+ ECUs / 82 Brands** | Hardware / driver dependent |
 | **24V Trucks & Agriculture** | **Dedicated Engine (452+ ECUs / 82 Brands)** | Separate modules or unsupported |
 | **Marine Boats & Jet Skis** | **Dedicated Marine Engine (30+ Propulsion Brands)** | Limited / unsupported |
 | **Operating Systems** | **Windows, macOS, Linux, Android, iPad, iPhone & Web** | Typically Windows-only or hardware dongle |
